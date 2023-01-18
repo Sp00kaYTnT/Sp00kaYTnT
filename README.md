@@ -1,4 +1,4 @@
-### Hi there 👋
+### a mongoose
 
 <!--
 **Sp00kaYTnT/Sp00kaYTnT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
